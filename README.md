@@ -6,11 +6,11 @@ Backend Developer | Node.js, PostgreSQL, AI Integration
 
 ## 🚀 Projects
 
-- **Zoidberg Pneumonia Detection AI**
+- **Zoidberg Medical Pneumonia Detection AI**
 - **HR OPENAI Chatbot API**
-- **Grocery Management Platform**
+- **Grocery Management Platforms (Web & Mobile)**
 - **Iot Arduino + Unity System**
-- **Employee Time Manager Web & Mobile**
+- **Employee Time Manager (Web & Mobile)**
 
 
 ---
