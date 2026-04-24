@@ -6,7 +6,6 @@
 
 #### Backend Developer · Node.js · PostgreSQL · AI
 
-#### Epitech Paris (2nd year)
 
 </div>
 
