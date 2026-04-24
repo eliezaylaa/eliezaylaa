@@ -4,32 +4,25 @@ Backend Developer | Node.js, PostgreSQL, AI Integration
 
 ---
 
-## 🚀 Projects
-
-- **Zoidberg Medical Pneumonia Detection AI**
-- **HR OPENAI Chatbot API**
-- **Grocery Management Platforms (Web & Mobile)**
-- **Iot Arduino + Unity System**
-- **Employee Time Manager (Web & Mobile)**
-
-
----
-
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eliezaylaa&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eliezaylaa&layout=compact&theme=tokyonight)
 
+![GitHub Streak](https://streak-stats.demolab.com?user=eliezaylaa&theme=tokyonight)
+
 ---
 
-## 🔥 Contribution Streak
+## 🚀 Projects
 
-![GitHub Streak](https://streak-stats.demolab.com?user=eliezaylaa&theme=tokyonight)
+- **HR AI Chatbot API**
+- **Grocery Management Platform**
+- **Zoidberg – Pneumonia Detection AI**
 
 ---
 
 ## 📫 Contact
 
-- LinkedIn: https://linkedin.com/in/eliezaylaa
-- Email: elie.zaylaa@epitech.eu
+- LinkedIn: https://linkedin.com/in/YOUR-LINK
+- Website: https://eliezaylaa.com
