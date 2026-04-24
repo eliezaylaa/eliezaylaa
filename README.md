@@ -40,14 +40,15 @@
 - **Grocery Management System**  
   Fullstack · Real-time updates . Web .Mobile
   
-  **Smart Trash Can System**  
+  **Smart Trash Cans System**  
   Arduino · Sensors · Unity AR · C# · Real-time Systems  
 
 ---
 
 ## 📫 Contact
 
-- 🌐 Website: https://eliezaylaa.com  
-- 💼 LinkedIn: https://linkedin.com/in/YOUR-LINK  
-
+- 🌐 Website:
+  https://eliezaylaa.com  
+- 💼 LinkedIn:
+  https://linkedin.com/in/eliezaylaa  
 ---
