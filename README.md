@@ -32,4 +32,4 @@ Backend Developer | Node.js, PostgreSQL, AI Integration
 ## 📫 Contact
 
 - LinkedIn: https://linkedin.com/in/eliezaylaa
-- Email: eliezaylaa@gmail.com
+- Email: elie.zaylaa@epitech.eu
