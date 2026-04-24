@@ -38,7 +38,10 @@
   Deep Learning · Medical Imaging  
 
 - **Grocery Management System**  
-  Fullstack · Real-time updates  
+  Fullstack · Real-time updates . Web .Mobile
+  
+  **Smart Trash Can System**  
+  Arduino · Sensors · Unity AR · C# · Real-time Systems  
 
 ---
 
