@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Elie Zaylaa 👋
 
-<!--
-**eliezaylaa/eliezaylaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Developer | Node.js, PostgreSQL, AI Integration
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+
+- **Zoidberg Pneumonia Detection AI**
+- **HR AI Chatbot API**
+- **Grocery Management Platform**
+- **Iot Arduino + Unity System**
+- **Employee Time Manager Web & Mobile**
+
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eliezaylaa&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eliezaylaa&layout=compact&theme=tokyonight)
+
+---
+
+## 🔥 Contribution Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=eliezaylaa&theme=tokyonight)
+
+---
+
+## 📫 Contact
+
+- LinkedIn: https://linkedin.com/in/eliezaylaa
+- Email: eliezaylaa@gmail.com
