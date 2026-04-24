@@ -1,28 +1,51 @@
-# Hi, I'm Elie Zaylaa 👋
-
-Backend Developer | Node.js, PostgreSQL, AI Integration
+## Elie Zaylaa 👋
 
 ---
 
-## 📊 GitHub Stats
+<div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eliezaylaa&show_icons=true&theme=tokyonight)
+#### Backend Developer · Node.js · PostgreSQL · AI
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eliezaylaa&layout=compact&theme=tokyonight)
+#### Epitech Paris (2nd year)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=eliezaylaa&theme=tokyonight)
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=eliezaylaa&show_icons=true&theme=tokyonight" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliezaylaa&layout=compact&theme=tokyonight" width="48%" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=eliezaylaa&theme=tokyonight" width="70%" />
+
+</div>
 
 ---
 
 ## 🚀 Projects
 
-- **HR AI Chatbot API**
-- **Grocery Management Platform**
-- **Zoidberg – Pneumonia Detection AI**
+- **HR AI Chatbot API**  
+  Node.js · OpenAI · PostgreSQL · JWT Auth  
+
+- **Zoidberg – Pneumonia Detection AI**  
+  Deep Learning · Medical Imaging  
+
+- **Grocery Management System**  
+  Fullstack · Real-time updates  
 
 ---
 
 ## 📫 Contact
 
-- LinkedIn: https://linkedin.com/in/YOUR-LINK
-- Website: https://eliezaylaa.com
+- 🌐 Website: https://eliezaylaa.com  
+- 💼 LinkedIn: https://linkedin.com/in/YOUR-LINK  
+
+---
