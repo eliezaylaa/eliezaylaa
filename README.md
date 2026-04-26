@@ -4,7 +4,7 @@
 
 <div align="center">
 
-#### Backend Developer · Node.js · PostgreSQL · AI
+#### Software Engineer · Node.js · PostgreSQL · AI
 
 
 </div>
