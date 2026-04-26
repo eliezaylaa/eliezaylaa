@@ -28,21 +28,22 @@
 </div>
 
 ---
-
 ## 🚀 Projects
 
 - **HR AI Chatbot API**  
-  Node.js · OpenAI · PostgreSQL · JWT Auth  
+  Node.js · OpenAI · PostgreSQL · JWT Auth · Docker
 
 - **Zoidberg – Pneumonia Detection AI**  
-  Deep Learning · Medical Imaging  
+  Deep Learning · Computer Vision · Medical Imaging
 
-- **Grocery Management System**  
-  Fullstack · Real-time updates . Web .Mobile
-  
-  **Smart Trash Cans System**  
-  Arduino · Sensors · Unity AR · C# · Real-time Systems  
+- **Grocery Management Platform**  
+  Fullstack · React · Node.js · PostgreSQL . Web/Mobile
 
+- **Smart Trash Cans System**  
+  Arduino · ESP8266 · Node-RED · Unity AR · C#
+
+- **Employee Time Management**  
+  Elixir · Phoenix · Time Tracking · Web/Mobile
 ---
 
 ## 📫 Contact
