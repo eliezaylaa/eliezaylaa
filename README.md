@@ -13,16 +13,6 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=eliezaylaa&show_icons=true&theme=tokyonight" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliezaylaa&layout=compact&theme=tokyonight" width="48%" />
-
-</div>
-
----
-
-<div align="center">
-
 <img src="https://streak-stats.demolab.com?user=eliezaylaa&theme=tokyonight" width="70%" />
 
 </div>
