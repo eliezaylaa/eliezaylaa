@@ -1,9 +1,8 @@
 <div align="center">
 
-# Elie Zaylaa
+<img src="banner.png" alt="Elie Zaylaa, full-stack engineer building AI-powered apps" width="100%" />
 
-**Full-stack engineer building AI-powered apps**
-Paris, France · Master's student at EPITECH (class of 2027)
+Master's student at EPITECH Paris (class of 2027)
 
 <a href="https://eliezaylaa.com"><img src="https://img.shields.io/badge/Website-eliezaylaa.com-17181a?style=for-the-badge" alt="Website" /></a>
 <a href="https://linkedin.com/in/eliezaylaa"><img src="https://img.shields.io/badge/LinkedIn-Elie_Zaylaa-17181a?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
