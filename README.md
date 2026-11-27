@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner.png" alt="Elie Zaylaa, full-stack engineer building AI-powered apps" width="100%" />
+<img src="banner.gif" alt="Elie Zaylaa" width="100%" />
 
 Master's student at EPITECH Paris (class of 2027)
 
